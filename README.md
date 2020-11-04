@@ -53,18 +53,18 @@ Final Project
                We can work on the preprocessed data and implement the recommendation algorithm.
 
            2)  Dashboard for User group, Dashboard for Data Engineers:
-               We will plan to represent graphically the different types of skin lesions based on images. Also dashboards for the                      skin images occured based on various factors.
+               We will plan to represent graphically the different types of skin lesions based on images. Also dashboards for the skin images occured based on various factors.
            3)  GCP further processing :
                We will use classiffication algorithms(CNN) to predict the skin lesion.
 
            4)  Evaluation of results :
-               We will be evaluating our result by categorical cross entropy. The smaller the value more accurate result will                          be. We will try to implement and tune the algorithm to get the least categorical cross entropy.          
+               We will be evaluating our result by categorical cross entropy. The smaller the value more accurate result will be. We will try to implement and tune the algorithm to get the least categorical cross entropy.          
 
            5)  Steps for production model :
-               We will load our data in Classification model and train our model with partial data and check categorical cross entropy .                After training , we will be testing our model and prepare the model for Production data.
+               We will load our data in Classification model and train our model with partial data and check categorical cross entropy. After training , we will be testing our model and prepare the model for Production data.
 
            6)  Final Dashboard for User Group :
-               Finally, we can recommend users the chances of skin cancer based on the images . Our model can be used for machine                      learning and for comparisons with human experts.
+               Finally, we can recommend users the chances of skin cancer based on the images . Our model can be used for machine learning and for comparisons with human experts.
       
       Research Citation:
       
